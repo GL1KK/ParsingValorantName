@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<title>Агенты - Valorant</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<meta name="description" content="Агенты Valorant. Инфо, Подсказки к умениям агента, Контракты, Реплики. Подробности.">
+<meta name="robots" content="index,follow">
+<meta property="og:locale" content="ru">
+<meta property="og:title" content="Агенты - Valorant">
+<meta property="og:description" content="Агенты Valorant. Инфо, Подсказки к умениям агента, Контракты, Реплики. Подробности.">
+<meta property="og:url" content="https://valorantinfo.com/ru/agents/">
+<link rel="canonical" href="https://valorantinfo.com/ru/agents/">
+<link rel="alternate" hreflang="vi" href="https://valorantinfo.com/vn/agents/">
+<link rel="alternate" hreflang="en" href="https://valorantinfo.com/agents/">
+<link rel="alternate" hreflang="zh-TW" href="https://valorantinfo.com/tw/agents/">
+<link rel="alternate" hreflang="tr" href="https://valorantinfo.com/tr/ajanlar/">
+<link rel="alternate" hreflang="th" href="https://valorantinfo.com/th/agents/">
+<link rel="alternate" hreflang="ru" href="https://valorantinfo.com/ru/agents/">
+<link rel="alternate" hreflang="pl" href="https://valorantinfo.com/pl/agenci/">
+<link rel="alternate" hreflang="es-MX" href="https://valorantinfo.com/mx/agentes/">
+<link rel="alternate" hreflang="ko" href="https://valorantinfo.com/kr/agents/">
+<link rel="alternate" hreflang="ja" href="https://valorantinfo.com/jp/agents/">
+<link rel="alternate" hreflang="it" href="https://valorantinfo.com/it/agenti/">
+<link rel="alternate" hreflang="id" href="https://valorantinfo.com/id/agen/">
+<link rel="alternate" hreflang="fr" href="https://valorantinfo.com/fr/agents/">
+<link rel="alternate" hreflang="es-ES" href="https://valorantinfo.com/es/agentes/">
+<link rel="alternate" hreflang="de" href="https://valorantinfo.com/de/agenten/">
+<link rel="alternate" hreflang="zh-CN" href="https://valorantinfo.com/cn/agents/">
+<link rel="alternate" hreflang="pt" href="https://valorantinfo.com/br/agentes/">
+<link rel="alternate" hreflang="ar" href="https://valorantinfo.com/ae/agents/">
+<link rel="alternate" hreflang="x-default" href="https://valorantinfo.com/agents/">
+<link rel="apple-touch-icon" sizes="60x60" href="/images/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/images/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script> <script>   window.googletag = window.googletag || {cmd: []}; googletag.cmd.push(function() { var interstitialSlot = googletag.defineOutOfPageSlot('/21849154601,23284824739/Ad.Plus-Interstitial', googletag.enums.OutOfPageFormat.INTERSTITIAL);  if (interstitialSlot) interstitialSlot.addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.enableServices();   googletag.display(interstitialSlot);     }); </script>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script> <script>   window.googletag = window.googletag || { cmd: [] }; var anchorSlot; googletag.cmd.push(function () { anchorSlot = googletag.defineOutOfPageSlot('/21849154601,23284824739/Ad.Plus-Anchor', googletag.enums.OutOfPageFormat.BOTTOM_ANCHOR); anchorSlot.addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.enableServices(); googletag.display(anchorSlot);  }); setInterval(function(){googletag.pubads().refresh([anchorSlot]);}, 30000);  </script>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script> <script>   window.googletag = window.googletag || { cmd: [] }; var anchorSlot; googletag.cmd.push(function () { anchorSlot = googletag.defineOutOfPageSlot('/21849154601,23284824739/Ad.Plus-Anchor-Small', googletag.enums.OutOfPageFormat.TOP_ANCHOR); anchorSlot.addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.enableServices(); googletag.display(anchorSlot);  }); setInterval(function(){googletag.pubads().refresh([anchorSlot]);}, 30000);  </script>
+</head>
+<body id="page-top">
+    <div id="wrapper">
+        <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark toggled pt-3">
+		            <form
+                        class="d-md-none px-2 mb-2 mw-100 navbar-search" action="/ru/search" method="post">
+                        <div class="input-group">
+                            <input type="text" name="search" class="form-control bg-light border-0 small" placeholder="Поиск..."
+                                aria-label="Search" aria-describedby="basic-addon2">
+                            <div class="input-group-append">
+                                <button class="btn btn-danger" type="submit" title="Поиск...">
+                                    <i class="fas fa-search fa-sm"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+
+            <div class="sidebar-heading text-capitalize">
+                Коллекция            </div>
+			<li class="nav-item">
+                <a class="nav-link" href="/ru/collection/">
+                    <i class="fas fa-fw fa-layer-group"></i>
+                    <span class="text-capitalize">Комплекты</span>
+				</a>
+            </li>
+			<li class="nav-item">
+                <a class="nav-link" href="/ru/buddies/">
+                    <i class="fas fa-fw fa-cubes"></i>
+                    <span class="text-capitalize">Брелоки</span>
+				</a>
+            </li>
+			<li class="nav-item">
+                <a class="nav-link" href="/ru/sprays/">
+                    <i class="fas fa-fw fa-chess-board"></i>
+                    <span class="text-capitalize">Граффити</span>
+				</a>
+            </li>
+			<li class="nav-item">
+                <a class="nav-link" href="/ru/player-cards/">
+                    <i class="fas fa-fw fa-id-badge"></i>
+                    <span class="text-capitalize">Карточки игрока</span>
+				</a>
+            </li>
+			<li class="nav-item">
+                <a class="nav-link" href="/ru/player-title/">
+                    <i class="fas fa-fw fa-tag"></i>
+                    <span class="text-capitalize">Звание игрока</span>
+				</a>
+            </li>
+            <hr class="sidebar-divider">
+            <div class="sidebar-heading text-capitalize">
+                Игра            </div>
+			<li class="nav-item">
+                <a class="nav-link" href="/ru/agents/">
+                    <i class="fas fa-fw fa-user-friends"></i>
+                    <span class="text-capitalize">Агенты</span>
+				</a>
+            </li>
+			<li class="nav-item">
+                <a class="nav-link" href="/ru/weapons/">
+                    <i class="fas fa-fw fa-crosshairs"></i>
+                    <span class="text-capitalize">Оружие</span>
+				</a>
+            </li>
+			<li class="nav-item">
+                <a class="nav-link" href="/ru/battlepass/">
+                    <i class="fas fa-fw fa-medal"></i>
+                    <span class="text-capitalize">Боевой пропуск</span>
+				</a>
+            </li>
+			<li class="nav-item">
+                <a class="nav-link" href="/ru/contracts/">
+                    <i class="fas fa-fw fa-dollar-sign"></i>
+                    <span class="text-capitalize">Контракты</span>
+				</a>
+            </li>
+            <hr class="sidebar-divider">
+            <div class="sidebar-heading text-capitalize">
+                Инфо            </div>
+			<li class="nav-item">
+                <a class="nav-link" href="/support" rel="nofollow noreferrer noopener">
+                    <i class="fas fa-fw fa-envelope"></i>
+                    <span class="text-capitalize">Поддержка</span>
+				</a>
+            </li>
+			<li class="nav-item">
+                <a class="nav-link" href="/privacy" rel="nofollow noreferrer noopener">
+                    <i class="fas fa-fw fa-file-alt"></i>
+                    <span class="text-capitalize">Конфиденциальность</span>
+				</a>
+            </li>
+            <hr class="sidebar-divider d-none d-md-block">
+        </ul>
+        <div id="content-wrapper" class="d-flex flex-column">
+            <div id="content">
+                <nav class="navbar navbar-expand navbar-light topbar mb-3 static-top shadow">
+					<a class="sidebar-brand d-flex align-items-center justify-content-center" href="/ru/" title="valorantinfo.com">
+						<div class="sidebar-brand-icon">
+						   <div class="mx-3"><img src="/logo.svg" alt="valorantinfo.com" width="150"></div>
+						</div>
+					</a>
+                    <form
+                        class="d-none d-md-inline-block form-inline ml-auto mr-md-3 my-2 my-md-0 mw-100 navbar-search" action="/ru/search" method="post">
+                        <div class="input-group">
+                            <input type="text" name="search" class="form-control bg-light border-0 small" placeholder="Поиск..."
+                                aria-label="Search" aria-describedby="basic-addon2">
+                            <div class="input-group-append">
+                                <button class="btn btn-danger" type="submit" title="Поиск...">
+                                    <i class="fas fa-search fa-sm"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+					<button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle m-2 ml-auto">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                </nav>
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var gptadslots = [];
+  var googletag = googletag || {cmd:[]};
+</script>
+<script>
+  googletag.cmd.push(function() {
+    var responsiveads = googletag.sizeMapping()
+          .addSize([0,0],[[336,280],[300,250],[250,250],[320,250],[320,100],[320,50],[300,100],[300,50]])
+          .addSize([750,200],[[728,90],[336,280],[300,250],[400,300],[480,320],[320,250]])
+          .addSize([975,200],[[728,90],[336,280],[300,250],[400,300],[480,320],[320,250],[980,90],[980,120]])
+                    .build();
+    gptadslots.push(googletag.defineSlot('/21849154601,23284824739/Ad.Plus-AI-Responsive', [[336,280]], 'responsive-1')
+                            .defineSizeMapping(responsiveads)
+                            .addService(googletag.pubads()));
+    googletag.pubads().setTargeting('site', ['valorantinfo.com']);
+    googletag.enableServices();
+  });
+</script>
+<center>
+  <div id='responsive-1'>
+    <script>
+      googletag.cmd.push(function() { googletag.display('responsive-1'); });
+    </script>
+  </div>
+</center>
+
+
+
+<div class="container-fluid ">
+	<div class="d-sm-flex align-items-center justify-content-between mb-3 h1-background">
+		<h1 class="h5 mb-0 ml-3 text-capitalize">Агенты</h1>
+		
+  <nav aria-label="breadcrumb"><ol class="breadcrumb small" itemscope itemtype="https://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="breadcrumb-item"><a itemprop="item" href="/ru/" title="Valorant Wiki"><span itemprop="name">Valorant</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="breadcrumb-item active text-capitalize"><span itemprop="name">Агенты</span><meta itemprop="position" content="2" /></li></ol></nav>
+	</div>
+	
+
+	<div class="row">
+		<div class="col-xl-9">
+		
+		<div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 row-cols-xl-4 row-cols-xxl-5">
+		<div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/waylay" title="Waylay"><img loading="lazy" src="/images/ru/waylay_valorant_icon_4051.webp" class="card-img-top" alt="Waylay" title="Waylay"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/waylay" title="Waylay">Waylay</a></h3>
+					<p class="card-text p-1">Сияющая Waylay из Таиланда превращается в сам свет, молниеносно перемещаясь по полю...</p>
+				  </div></div>				
+			  </div><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/tejo" title="Tejo"><img loading="lazy" src="/images/ru/tejo_valorant_icon_4033.webp" class="card-img-top" alt="Tejo" title="Tejo"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/tejo" title="Tejo">Tejo</a></h3>
+					<p class="card-text p-1">Tejo – бывалый разведчик-эксперт из Колумбии. Используемая им система наведения...</p>
+				  </div></div>				
+			  </div><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/vyse" title="Vyse"><img loading="lazy" src="/images/ru/vyse_valorant_icon_4015.webp" class="card-img-top" alt="Vyse" title="Vyse"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/vyse" title="Vyse">Vyse</a></h3>
+					<p class="card-text p-1">Vyse умеет управлять жидким металлом, запирая, пленяя и обезоруживая врагов с его...</p>
+				  </div></div>				
+			  </div><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/clove" title="Clove"><img loading="lazy" src="/images/ru/clove_valorant_icon_3997.webp" class="card-img-top" alt="Clove" title="Clove"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/clove" title="Clove">Clove</a></h3>
+					<p class="card-text p-1">Clove, родом из Шотландии, умеет навредить противникам и в пылу боя, и во хладе смерти....</p>
+				  </div></div>				
+			  </div></div><div class="col-12 text-center mb-2"><ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-9573062352627042"
+     data-ad-slot="1572231575"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div><div class="row row-cols-2 row-cols-sm-2 row-cols-lg-3 row-cols-xl-4 row-cols-xxl-5"><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/iso" title="Iso"><img loading="lazy" src="/images/ru/iso_valorant_icon_3979.webp" class="card-img-top" alt="Iso" title="Iso"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/iso" title="Iso">Iso</a></h3>
+					<p class="card-text p-1">Китайский агент Iso – опытный боец, способный устранить любую цель. Он...</p>
+				  </div></div>				
+			  </div><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/gekko" title="Gekko"><img loading="lazy" src="/images/ru/gekko_valorant_icon_3583.webp" class="card-img-top" alt="Gekko" title="Gekko"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/gekko" title="Gekko">Gekko</a></h3>
+					<p class="card-text p-1">Gekko из Лос-Анджелеса заправляет дружной командой безбашенных существ. Его верные...</p>
+				  </div></div>				
+			  </div><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/deadlock" title="Deadlock"><img loading="lazy" src="/images/ru/deadlock_valorant_icon_3586.webp" class="card-img-top" alt="Deadlock" title="Deadlock"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/deadlock" title="Deadlock">Deadlock</a></h3>
+					<p class="card-text p-1">Уроженка Норвегии Deadlock известна своим упорством и суровостью. Она контролирует...</p>
+				  </div></div>				
+			  </div><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/harbor" title="Harbor"><img loading="lazy" src="/images/ru/harbor_valorant_icon_3594.webp" class="card-img-top" alt="Harbor" title="Harbor"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/harbor" title="Harbor">Harbor</a></h3>
+					<p class="card-text p-1">Агент Harbor с индийского побережья обрушивает бурю на поле боя, используя древнюю...</p>
+				  </div></div>				
+			  </div><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/fade" title="Fade"><img loading="lazy" src="/images/ru/fade_valorant_icon_3584.webp" class="card-img-top" alt="Fade" title="Fade"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/fade" title="Fade">Fade</a></h3>
+					<p class="card-text p-1">Турчанка Fade, охотница за головами, связала свою жизнь с Кошмаром и научилась...</p>
+				  </div></div>				
+			  </div><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/neon" title="Neon"><img loading="lazy" src="/images/ru/neon_valorant_icon_3599.webp" class="card-img-top" alt="Neon" title="Neon"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/neon" title="Neon">Neon</a></h3>
+					<p class="card-text p-1">Филиппинка Neon способна невероятно быстро передвигаться благодаря...</p>
+				  </div></div>				
+			  </div></div><div class="col-12 text-center mb-2"><ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-9573062352627042"
+     data-ad-slot="1572231575"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div><div class="row row-cols-2 row-cols-sm-2 row-cols-lg-3 row-cols-xl-4 row-cols-xxl-5"><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/chamber" title="Chamber"><img loading="lazy" src="/images/ru/chamber_valorant_icon_3588.webp" class="card-img-top" alt="Chamber" title="Chamber"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/chamber" title="Chamber">Chamber</a></h3>
+					<p class="card-text p-1">Одет с иголочки и вооружен до зубов. Chamber, французский конструктор оружия,...</p>
+				  </div></div>				
+			  </div><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/kayo" title="KAY/O"><img loading="lazy" src="/images/ru/kayo_valorant_icon_3589.webp" class="card-img-top" alt="KAY/O" title="KAY/O"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/kayo" title="KAY/O">KAY/O</a></h3>
+					<p class="card-text p-1">KAY/O – боевая машина, созданная лишь для одной цели: истребить радиантов. Его...</p>
+				  </div></div>				
+			  </div><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/astra" title="Astra"><img loading="lazy" src="/images/ru/astra_valorant_icon_3597.webp" class="card-img-top" alt="Astra" title="Astra"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/astra" title="Astra">Astra</a></h3>
+					<p class="card-text p-1">Astra, агент из Ганы, управляет пространством и временем и способна изменять поле...</p>
+				  </div></div>				
+			  </div><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/yoru" title="Yoru"><img loading="lazy" src="/images/ru/yoru_valorant_icon_3600.webp" class="card-img-top" alt="Yoru" title="Yoru"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/yoru" title="Yoru">Yoru</a></h3>
+					<p class="card-text p-1">Уроженец Японии Yoru способен создавать разрывы в самой реальности, чтобы незаметно...</p>
+				  </div></div>				
+			  </div><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/skye" title="Skye"><img loading="lazy" src="/images/ru/skye_valorant_icon_3590.webp" class="card-img-top" alt="Skye" title="Skye"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/skye" title="Skye">Skye</a></h3>
+					<p class="card-text p-1">Австралийка Skye и ее звериная стая прокладывают путь по враждебной территории. Ее...</p>
+				  </div></div>				
+			  </div><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/killjoy" title="Killjoy"><img loading="lazy" src="/images/ru/killjoy_valorant_icon_3593.webp" class="card-img-top" alt="Killjoy" title="Killjoy"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/killjoy" title="Killjoy">Killjoy</a></h3>
+					<p class="card-text p-1">Гений из Германии Killjoy с легкостью защищает территорию на поле боя с помощью своего...</p>
+				  </div></div>				
+			  </div><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/breach" title="Breach"><img loading="lazy" src="/images/ru/breach_valorant_icon_3585.webp" class="card-img-top" alt="Breach" title="Breach"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/breach" title="Breach">Breach</a></h3>
+					<p class="card-text p-1">Использующий бионические усиления швед Breach полагается на мощные направленные...</p>
+				  </div></div>				
+			  </div><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/raze" title="Raze"><img loading="lazy" src="/images/ru/raze_valorant_icon_3587.webp" class="card-img-top" alt="Raze" title="Raze"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/raze" title="Raze">Raze</a></h3>
+					<p class="card-text p-1">Raze – мастер взрывного дела из Бразилии, обладательница сильного характера и еще...</p>
+				  </div></div>				
+			  </div><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/cypher" title="Cypher"><img loading="lazy" src="/images/ru/cypher_valorant_icon_3591.webp" class="card-img-top" alt="Cypher" title="Cypher"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/cypher" title="Cypher">Cypher</a></h3>
+					<p class="card-text p-1">Торговец информацией из Марокко Cypher может самостоятельно создать целую...</p>
+				  </div></div>				
+			  </div><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/sova" title="Sova"><img loading="lazy" src="/images/ru/sova_valorant_icon_3592.webp" class="card-img-top" alt="Sova" title="Sova"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/sova" title="Sova">Sova</a></h3>
+					<p class="card-text p-1">Рожденный в вечной мерзлоте российского заполярья, Sova выслеживает и уничтожает...</p>
+				  </div></div>				
+			  </div></div><div class="col-12 text-center mb-2"><ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-9573062352627042"
+     data-ad-slot="1572231575"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div><div class="row row-cols-2 row-cols-sm-2 row-cols-lg-3 row-cols-xl-4 row-cols-xxl-5"><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/viper" title="Viper"><img loading="lazy" src="/images/ru/viper_valorant_icon_3595.webp" class="card-img-top" alt="Viper" title="Viper"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/viper" title="Viper">Viper</a></h3>
+					<p class="card-text p-1">Химик из США Viper устанавливает контроль над полем боя с помощью источающих...</p>
+				  </div></div>				
+			  </div><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/phoenix" title="Phoenix"><img loading="lazy" src="/images/ru/phoenix_valorant_icon_3596.webp" class="card-img-top" alt="Phoenix" title="Phoenix"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/phoenix" title="Phoenix">Phoenix</a></h3>
+					<p class="card-text p-1">Представитель Великобритании Phoenix демонстрирует звездную силу во всех аспектах...</p>
+				  </div></div>				
+			  </div><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/brimstone" title="Brimstone"><img loading="lazy" src="/images/ru/brimstone_valorant_icon_3598.webp" class="card-img-top" alt="Brimstone" title="Brimstone"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/brimstone" title="Brimstone">Brimstone</a></h3>
+					<p class="card-text p-1">Уроженец США Brimstone обеспечивает своей команде преимущество перед противником...</p>
+				  </div></div>				
+			  </div><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/sage" title="Sage"><img loading="lazy" src="/images/ru/sage_valorant_icon_3601.webp" class="card-img-top" alt="Sage" title="Sage"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/sage" title="Sage">Sage</a></h3>
+					<p class="card-text p-1">Защитница Китая Sage обеспечивает безопасность команды в бою. Благодаря возможности...</p>
+				  </div></div>				
+			  </div><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/reyna" title="Reyna"><img loading="lazy" src="/images/ru/reyna_valorant_icon_3602.webp" class="card-img-top" alt="Reyna" title="Reyna"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/reyna" title="Reyna">Reyna</a></h3>
+					<p class="card-text p-1">Выросшая в самом сердце Мексики Reyna способна одолеть любого в бою один на один, и...</p>
+				  </div></div>				
+			  </div><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/omen" title="Omen"><img loading="lazy" src="/images/ru/omen_valorant_icon_3603.webp" class="card-img-top" alt="Omen" title="Omen"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/omen" title="Omen">Omen</a></h3>
+					<p class="card-text p-1">Призрак из прошлого Omen наносит удары из тени. Он способен ослеплять врагов и...</p>
+				  </div></div>				
+			  </div><div class="col text-center">	
+				<div class="bg-three">
+				  <a href="/ru/agents/jett" title="Jett"><img loading="lazy" src="/images/ru/jett_valorant_icon_3604.webp" class="card-img-top" alt="Jett" title="Jett"></a>
+				  <div class="card-body p-1">
+					<h3 class="h5 card-title mc-1 m-1"><a href="/ru/agents/jett" title="Jett">Jett</a></h3>
+					<p class="card-text p-1">Представляющая Южную Корею Jett быстра и неуловима и может позволить себе рисковать...</p>
+				  </div></div>				
+			  </div>			
+			
+			</div>
+		
+											<div class="card mb-4 mt-2">
+			<div class="mb-4 text-center">
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-9573062352627042"
+     data-ad-slot="9776340446"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+				                               <div class="card-header p-3">
+                                    <h4 class="m-0 text-white text-capitalize h6">Язык текста</h4>
+									
+                                </div>
+				<div class="card-body">
+				
+				
+				
+				<div class="m-2"><img loading="lazy" src="/images/flags/vn.webp" width="20px" class="mr-2" alt="vn"><a class="align-middle h7 text-capitalize" href="/vn/agents/" title="agenci">agents</a></div>
+<div class="m-2"><img loading="lazy" src="/images/flags/us.webp" width="20px" class="mr-2" alt="us"><a class="align-middle h7 text-capitalize" href="/agents/" title="agenci">agents</a></div>
+<div class="m-2"><img loading="lazy" src="/images/flags/tw.webp" width="20px" class="mr-2" alt="tw"><a class="align-middle h7 text-capitalize" href="/tw/agents/" title="agenci">agents</a></div>
+<div class="m-2"><img loading="lazy" src="/images/flags/tr.webp" width="20px" class="mr-2" alt="tr"><a class="align-middle h7 text-capitalize" href="/tr/ajanlar/" title="agenci">ajanlar</a></div>
+<div class="m-2"><img loading="lazy" src="/images/flags/th.webp" width="20px" class="mr-2" alt="th"><a class="align-middle h7 text-capitalize" href="/th/agents/" title="agenci">agents</a></div>
+<div class="m-2"><img loading="lazy" src="/images/flags/ru.webp" width="20px" class="mr-2" alt="ru"><a class="align-middle h7 text-capitalize" href="/ru/agents/" title="agenci">agents</a></div>
+<div class="m-2"><img loading="lazy" src="/images/flags/pl.webp" width="20px" class="mr-2" alt="pl"><a class="align-middle h7 text-capitalize" href="/pl/agenci/" title="agenci">agenci</a></div>
+<div class="m-2"><img loading="lazy" src="/images/flags/mx.webp" width="20px" class="mr-2" alt="mx"><a class="align-middle h7 text-capitalize" href="/mx/agentes/" title="agenci">agentes</a></div>
+<div class="m-2"><img loading="lazy" src="/images/flags/kr.webp" width="20px" class="mr-2" alt="kr"><a class="align-middle h7 text-capitalize" href="/kr/agents/" title="agenci">agents</a></div>
+<div class="m-2"><img loading="lazy" src="/images/flags/jp.webp" width="20px" class="mr-2" alt="jp"><a class="align-middle h7 text-capitalize" href="/jp/agents/" title="agenci">agents</a></div>
+<div class="m-2"><img loading="lazy" src="/images/flags/it.webp" width="20px" class="mr-2" alt="it"><a class="align-middle h7 text-capitalize" href="/it/agenti/" title="agenci">agenti</a></div>
+<div class="m-2"><img loading="lazy" src="/images/flags/id.webp" width="20px" class="mr-2" alt="id"><a class="align-middle h7 text-capitalize" href="/id/agen/" title="agenci">agen</a></div>
+<div class="m-2"><img loading="lazy" src="/images/flags/fr.webp" width="20px" class="mr-2" alt="fr"><a class="align-middle h7 text-capitalize" href="/fr/agents/" title="agenci">agents</a></div>
+<div class="m-2"><img loading="lazy" src="/images/flags/es.webp" width="20px" class="mr-2" alt="es"><a class="align-middle h7 text-capitalize" href="/es/agentes/" title="agenci">agentes</a></div>
+<div class="m-2"><img loading="lazy" src="/images/flags/de.webp" width="20px" class="mr-2" alt="de"><a class="align-middle h7 text-capitalize" href="/de/agenten/" title="agenci">agenten</a></div>
+<div class="m-2"><img loading="lazy" src="/images/flags/cn.webp" width="20px" class="mr-2" alt="cn"><a class="align-middle h7 text-capitalize" href="/cn/agents/" title="agenci">agents</a></div>
+<div class="m-2"><img loading="lazy" src="/images/flags/br.webp" width="20px" class="mr-2" alt="br"><a class="align-middle h7 text-capitalize" href="/br/agentes/" title="agenci">agentes</a></div>
+<div class="m-2"><img loading="lazy" src="/images/flags/ae.webp" width="20px" class="mr-2" alt="ae"><a class="align-middle h7 text-capitalize" href="/ae/agents/" title="agenci">agents</a></div>
+				
+							</div>
+			
+			
+			
+			
+			
+			
+		</div>
+
+		</div>
+		
+
+		<div class="col-xl-3">
+													
+
+	</div>
+			</div>
+</div>
+
+<footer class="sticky-footer">
+<div class="container-fluid my-auto">
+<div class="copyright text-center my-auto">
+<span>Valorantinfo.com — неофициальный фан-сайт Valorant. 2020–2022 riot games, inc. riot games, valorant и все связанные с ними логотипы являются товарными знаками, знаками обслуживания и/или зарегистрированными товарными знаками riot games, inc.</span>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<script src="/vendor/jquery/jquery.min.js"></script>
+
+<script async src="/js/sb-admin-2.min.js"></script>
+
+
+<script>
+var width = window.screen.availWidth;
+var height = window.screen.availHeight;
+
+function SetCookie(cookieName,cookieValue,nDays) {
+ var today = new Date();
+ var expire = new Date();
+ if (nDays==null || nDays==0) nDays=1;
+ expire.setTime(today.getTime() + 3600000*24*nDays);
+ document.cookie = cookieName+"="+escape(cookieValue)
+                 + ";expires="+expire.toGMTString();
+}
+SetCookie('w',width,'1');
+SetCookie('h',height,'1');
+</script>
+
+</body>
+</html>
